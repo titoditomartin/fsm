@@ -22,17 +22,20 @@ the music player fsm accepts two 1-bit inputs:
 
 ## State diagram
 
+![State-Diagram](https://user-images.githubusercontent.com/114073725/211994815-36cc275e-0ff2-4994-9f90-9d4efdb0a030.jpeg)
 
-(images/"State Diagaram.jpeg")
+
 
 ## Truth Table
 
-
+![Truth-Table](https://user-images.githubusercontent.com/114073725/211994957-4457258b-27a7-44c6-9dd6-446986c4a76b.jpeg)
 
 
 ## Karnaugh map
 
+![K-Map-1](https://user-images.githubusercontent.com/114073725/211994978-5638327f-142e-462d-ba06-4eebb6afb28c.jpeg)
 
+![K-Map-2](https://user-images.githubusercontent.com/114073725/211994984-cc705ca0-dc8d-4d92-9b3b-f9b39b5acd7d.jpeg)
 
 
 
