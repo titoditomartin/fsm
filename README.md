@@ -38,6 +38,5 @@ the music player fsm accepts two 1-bit inputs:
 
 
 
-## Running the code
 
 
