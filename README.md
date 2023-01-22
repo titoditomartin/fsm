@@ -4,20 +4,18 @@ Finite state machine (FSM) is a term used by programmers, mathematicians, engine
 
 ## States
 
-1.  **Standby**: Music player is standby, waiting for an action
-2.  **Playing Music**: Music player is playing a song
-3.  **Pause Music**: Music player is pausing the music
+1.  Idle Open (00)
+2.  Idle Closed (01)
+3.  Cooking (10)
 
--   **Standby**: `00`
--   **Playing Music**: `01`
--   **Pause Music**: `10`
 
 ## Inputs
-the music player fsm accepts two 1-bit inputs:
+2-bit input :
 
-**0** : PLAY/PAUSE
+D (0/1) = Door close/open
+T (0/1) = Timer start
 
-**1** : SKIP
+
 
 ## State diagram
 ![WhatsApp Image 2023-01-22 at 22 47 39](https://user-images.githubusercontent.com/114073725/213926847-76edb368-3e42-40f3-babf-c3b3875af720.jpeg)
