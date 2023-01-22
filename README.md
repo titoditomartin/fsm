@@ -1,6 +1,6 @@
-# FSM of a Music Player
+# FSM of a Microwave
 
-Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being. A music player could be executed by using inputs to change the states of the music player itself.
+Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being. A finite state machine for a microwave would have a limited number of states that represent the different actions and modes of the device, and the transitions between those states would be triggered by specific inputs or events.
 
 ## States
 
@@ -20,21 +20,27 @@ the music player fsm accepts two 1-bit inputs:
 **1** : SKIP
 
 ## State diagram
+![WhatsApp Image 2023-01-22 at 22 47 39](https://user-images.githubusercontent.com/114073725/213926847-76edb368-3e42-40f3-babf-c3b3875af720.jpeg)
 
-![State-Diagram](https://user-images.githubusercontent.com/114073725/211994815-36cc275e-0ff2-4994-9f90-9d4efdb0a030.jpeg)
+
 
 
 
 ## Truth Table
+![WhatsApp Image 2023-01-22 at 23 11 36](https://user-images.githubusercontent.com/114073725/213926849-f0642e24-0fcf-40de-a538-60a2f1f22b13.jpeg)
 
-![Truth-Table](https://user-images.githubusercontent.com/114073725/211994957-4457258b-27a7-44c6-9dd6-446986c4a76b.jpeg)
+
 
 
 ## Karnaugh map
+![s0](https://user-images.githubusercontent.com/114073725/213926876-752c1b60-e139-4ac3-851c-7bfdd0d1a1a6.png)
+![s0 kmap](https://user-images.githubusercontent.com/114073725/213926879-465b7013-1a71-4268-bbc2-67fd2be5ccbc.png)
 
-![K-Map-1](https://user-images.githubusercontent.com/114073725/211994978-5638327f-142e-462d-ba06-4eebb6afb28c.jpeg)
+![s1](https://user-images.githubusercontent.com/114073725/213926892-55b8af9b-0644-4c79-8ae0-84255506166c.png)
+![s1 kmap](https://user-images.githubusercontent.com/114073725/213926902-e1cb4285-47c0-4558-b616-c31654553138.png)
 
-![K-Map-2](https://user-images.githubusercontent.com/114073725/211994984-cc705ca0-dc8d-4d92-9b3b-f9b39b5acd7d.jpeg)
+![output](https://user-images.githubusercontent.com/114073725/213926913-43133564-77f8-4e70-9679-83c69b359313.png)
+![output kmap](https://user-images.githubusercontent.com/114073725/213926918-a6dc5212-863a-490a-b4e8-5a0cb58beb54.png)
 
 
 
