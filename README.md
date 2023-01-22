@@ -1,6 +1,6 @@
 # FSM of a Microwave
 
-Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being. A finite state machine for a microwave would have a limited number of states that represent the different actions and modes of the device, and the transitions between those states would be triggered by specific inputs or events.
+Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being. A finite state machine for a microwave would have a limited number of states that represent the different actions and modes of the device, and the transitions between those states would be triggered by specific inputs or events. In the FSM that I created, the input would be 2-bit with 3 states. The first state **(00)** is where the microwave door is open and the timer hasn't been started. The second state **(01)** is when the microwave door is closed and the timer hasn't been started. The third state **(10)** is when the microwave has started cooking with the door closed and the timer started.
 
 # States
 
@@ -12,14 +12,14 @@ Finite state machine (FSM) is a term used by programmers, mathematicians, engine
 # Inputs
 The inputs would be a 2-bit input :
 
-  1. D (0/1) = Door close/open
-  2. T (0/1) = Timer start/not started
+  1. D (0/1) = Door open (0) / door close (1)
+  2. T (0/1) = Timer hasn't start (0) / timer start (1)
 
 
 
 
 
-## State diagram
+## FSM Diagram
 ![WhatsApp Image 2023-01-22 at 22 47 39](https://user-images.githubusercontent.com/114073725/213926847-76edb368-3e42-40f3-babf-c3b3875af720.jpeg)
 
 
@@ -46,7 +46,11 @@ Output
 - ![output kmap](https://user-images.githubusercontent.com/114073725/213926918-a6dc5212-863a-490a-b4e8-5a0cb58beb54.png)
 
 ## Visualization
+- <img width="351" alt="image" src="https://user-images.githubusercontent.com/114073725/213934622-0c4c3b10-dc4f-411a-b1e5-3c3741d3577e.png">
+- This image shows the starting state, where the door is open and timer hasn't started.
 
+- <img width="347" alt="image" src="https://user-images.githubusercontent.com/114073725/213934707-93635734-8102-452e-9c06-66271ad54ae8.png">
+- This image shows the second state, where the door is closed but timer hasn't started.
 
 
 
