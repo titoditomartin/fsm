@@ -46,13 +46,16 @@ Output
 - ![output kmap](https://user-images.githubusercontent.com/114073725/213926918-a6dc5212-863a-490a-b4e8-5a0cb58beb54.png)
 
 ## Visualization
+  ### First State
 - <img width="351" alt="image" src="https://user-images.githubusercontent.com/114073725/213934622-0c4c3b10-dc4f-411a-b1e5-3c3741d3577e.png">
 - This image shows the starting state, where the door is open and timer hasn't started.
 
+  ### Second State
 - <img width="347" alt="image" src="https://user-images.githubusercontent.com/114073725/213934707-93635734-8102-452e-9c06-66271ad54ae8.png">
 - This image shows the second state, where the door is closed but timer hasn't started.
 
-- ![screen-capture (2)](https://user-images.githubusercontent.com/114073725/213935551-f0f52bef-931f-4afd-8ee2-bba75be527fc.gif)
+  ### Third State
+- ![screen-capture (2) (1)](https://user-images.githubusercontent.com/114073725/213936396-db675189-c2d4-4d01-992d-2410e66373ca.gif)
 - This is a demonstration of the visualization from the starting state
 
 
