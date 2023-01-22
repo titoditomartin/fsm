@@ -52,5 +52,7 @@ Output
 - <img width="347" alt="image" src="https://user-images.githubusercontent.com/114073725/213934707-93635734-8102-452e-9c06-66271ad54ae8.png">
 - This image shows the second state, where the door is closed but timer hasn't started.
 
+- ![screen-capture (2)](https://user-images.githubusercontent.com/114073725/213935551-f0f52bef-931f-4afd-8ee2-bba75be527fc.gif)
+- This is a demonstration of the visualization from the starting state
 
 
