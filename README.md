@@ -2,18 +2,18 @@
 
 Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being. A finite state machine for a microwave would have a limited number of states that represent the different actions and modes of the device, and the transitions between those states would be triggered by specific inputs or events.
 
-## States
+# States
 
 1.  Idle Open (00)
 2.  Idle Closed (01)
 3.  Cooking (10)
 
 
-## Inputs
-2-bit input :
+# Inputs
+The inputs would be a 2-bit input :
 
-D (0/1) = Door close/open
-T (0/1) = Timer start
+  1. D (0/1) = Door close/open
+  2. T (0/1) = Timer start
 
 
 
